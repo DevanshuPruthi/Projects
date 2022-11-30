@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "rollno": 43,
+      "name": "Amrit",
+      "dob": "2001-01-01",
+      "score": 70,
+      "skill": "Python"
+    },
+    {
+      "id": 5,
+      "rollno": 12,
+      "name": "Lakshay",
+      "dob": "1111-11-11",
+      "score": 95,
+      "skill": "SE"
+    },
+    {
+      "id": 6,
+      "rollno": 18,
+      "name": "Virat",
+      "dob": "1212-12-12",
+      "score": 89,
+      "skill": "All"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
